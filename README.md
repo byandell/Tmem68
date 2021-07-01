@@ -1,6 +1,6 @@
 # Tmem68
 
-`Tmem68` is an R package with data mediation analysis.
+`Tmem68` is an R package with data used for mediation analysis.
 The data come from <https://github.com/churchill-lab/intermediate>, but have been compressed further using 'tools:resaveRdaFiles'. The software from that package has been updated in <https://github.com/byandell/intermediate>, which uses
 these data for examples.
 
