@@ -1,14 +1,16 @@
 # Tmem68
 
 `Tmem68` is an R package with data used for mediation analysis.
-The data come from <https://github.com/churchill-lab/intermediate>, but have been compressed further using 'tools:resaveRdaFiles'. The software from that package has been updated in <https://github.com/byandell/intermediate>, which uses
+The data come from <https://github.com/churchill-lab/intermediate>, but have been compressed further using 'tools:resaveRdaFiles'. Also, the `Tmem68.rda` file has some changes from the original using `Tmem68_transfrom`.
+
+The software from that package has been updated in <https://github.com/byandell/intermediate>, which uses
 these data for examples.
 
 ## Installation
 
 You can install `Tmem68` directly from Github using `devtools` package:
 
-```S
+```
     # install.packages("devtools")
     devtools::install_github("byandell/Tmem68")
 ```

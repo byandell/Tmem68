@@ -22,7 +22,7 @@ The 'target' is the level of expression of gene 'Tmem68'.
 The mRNA transcript expression is measured for 8050 genes in 'mediator'.
 The 'annotation' has positional information for each of the genes.
 The 'covar' has Sex and Diet information for the 192 mice.
-The 'qtl.geno' object has the allele probabilities for the 8 founder genotypes for the 192 mice
+The 'driver' object has the driver as allele probabilities for the 8 founder genotypes for the 192 mice
 at the location of the Tmem68 gene.
 }
 \examples{
